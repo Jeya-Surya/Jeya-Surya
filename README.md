@@ -67,22 +67,6 @@ OOP | REST APIs | MVC Architecture
 
 ---
 
-## 📊 GitHub Stats
-
-![Jeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeya-Surya&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeya-Surya&layout=compact&theme=tokyonight)
-
----
-
-## 🧠 LeetCode
-
-- 🧩 Solving DSA problems regularly
-- 📈 Focus: Arrays, Strings, Recursion, Dynamic Programming
-- 🎯 Goal: 300+ problems  
-
----
-
 ## 📜 Certifications
 - Programming in Java – NPTEL  
 - Spring Boot – Amigoscode  
