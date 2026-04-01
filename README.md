@@ -41,7 +41,7 @@ OOP | REST APIs | MVC Architecture
 ### 🔹 CampusConnect – Academic Collaboration Platform
 - Full-stack app using **Spring Boot + Java**
 - Real-time chat using **WebSockets**
-- Features: mentorship, study groups, resource sharing
+- Features: Doubt Desk, Project Campus, Resource Hub, Study Group, Mentorship and Event Calender
 - Responsive UI with modern design (dark mode + glassmorphism)
 
 🔗 https://github.com/Jeya-Surya/Campus-Connect  
