@@ -2,7 +2,7 @@
 
 🚀 Aspiring Software Engineer | Java Full-Stack Developer  
 💻 Passionate about building scalable applications & solving real-world problems  
-📍 India  
+📍 Chennai, India  
 
 ---
 
