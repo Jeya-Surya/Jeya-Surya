@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 - 🎓 B.Tech in Computer Science and Business Systems (CGPA: 8.2)
-- 💡 Strong in Java, DSA, and Full-Stack Development
+- 💡 Strong in Java, Spring Boot, and Full-Stack Development
 - ⚡ Experienced in building real-time and data-driven applications
 - 🎯 Goal: Crack top tech roles and become a skilled Software Engineer
 
@@ -39,7 +39,7 @@ OOP | REST APIs | MVC Architecture
 ## 🚀 Projects
 
 ### 🔹 CampusConnect – Academic Collaboration Platform
-- Full-stack app using **Spring Boot + Java**
+- Full-stack app using **Spring Boot + React**
 - Real-time chat using **WebSockets**
 - Features: Doubt Desk, Project Campus, Resource Hub, Study Group, Mentorship and Event Calender
 - Responsive UI with modern design (dark mode + glassmorphism)
