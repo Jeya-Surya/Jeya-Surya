@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jeya Surya D S
+# Hi 👋, I'm Jeya Surya
 
 🚀 Aspiring Software Engineer | Java Full-Stack Developer  
 💻 Passionate about building scalable applications & solving real-world problems  
