@@ -192,7 +192,9 @@ End-to-end data warehouse and lakehouse pipeline using Medallion Architecture, i
 
 <br/>
 
-```bash
-$ echo "Thanks for stopping by — always open to interesting projects & conversations."
-> Thanks for stopping by — always open to interesting projects & conversations.
-```
+⚡ Fun Fact
+<div align="center">
+
+I enjoy building real-time applications and exploring both software engineering + data engineering 🚀
+
+</div>
