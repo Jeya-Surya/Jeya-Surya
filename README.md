@@ -17,7 +17,7 @@ public class JeyaSurya implements SoftwareEngineer {
     private String currentRole = "Java Full Stack Intern @ Zidio Development";
 
     private String[] stack = {
-        "Java", "Spring Boot", "React", "PostgreSQL", "Kafka"
+        "Java", "Spring Boot", "React", "PostgreSQL"
     };
 
     @Override
