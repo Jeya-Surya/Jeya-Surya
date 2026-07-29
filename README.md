@@ -14,7 +14,7 @@ public class JeyaSurya implements SoftwareEngineer {
     private String role        = "Full-Stack Developer";
     private String location    = "Chennai, India";
     private double cgpa        = 8.3;
-    private String currentRole = "Java Full Stack Intern @ Zidio Development";
+    private String currentRole = "Full-Stack Developer @MedSocio";
 
     private String[] stack = {
         "Java", "Spring Boot", "React", "PostgreSQL"
