@@ -11,7 +11,7 @@
 ```java
 public class JeyaSurya implements SoftwareEngineer {
 
-    private String role        = "Java Full-Stack Developer";
+    private String role        = "Full-Stack Developer";
     private String location    = "Chennai, India";
     private double cgpa        = 8.3;
     private String currentRole = "Java Full Stack Intern @ Zidio Development";
