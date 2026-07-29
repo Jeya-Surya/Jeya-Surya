@@ -50,7 +50,7 @@ public class JeyaSurya implements SoftwareEngineer {
 <tr>
 <td valign="top"><b>Zidio Development</b></td>
 <td valign="top">Java Full Stack Intern</td>
-<td valign="top">Jul 2026 – Present</td>
+<td valign="top">Jul 2026 – Aug 2026</td>
 </tr>
 </table>
 
